@@ -32,4 +32,4 @@ serde = { version = "1.0", optional = true, default-features = false, features =
 subtle = { version = "2.2", default-features = false, features = ["i128"] }
 
 [dev-dependencies]
-bincode = "1.2"
+bincode = "1.3"
